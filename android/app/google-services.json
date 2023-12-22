@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130181703892",
+    "project_id": "hmingp-d54d6",
+    "storage_bucket": "hmingp-d54d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130181703892:android:424546e9ed1436f12ef341",
+        "android_client_info": {
+          "package_name": "com.example.hmimgp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJdzZ8e6T01eyyd4HnPt0aD6xmEhHUP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
