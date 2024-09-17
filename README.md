@@ -10,7 +10,6 @@ HMIMGP offers three main features:
   - Authentication System: Secure login and registration to provide a personalized user experience.
   - Project Recommendations: Display the top projects from the last 5 years for each department, helping students find inspiration.
   - Project Summaries: A concise conclusion for every project, summarizing its goals and outcomes.
-  - 
 # How It Works
 
   - Users select their department from the available options.
@@ -31,7 +30,7 @@ HMIMGP offers three main features:
   - Get your API key from OpenAI.
   - Add it to the project’s configuration file.
 ## 4 Run the app:
-  - flutter run
+     flutter run
 
 ## Contributing
 Feel free to submit issues or pull requests if you want to contribute. All kinds of feedback are welcome to improve the app.
