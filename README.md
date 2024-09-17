@@ -13,12 +13,26 @@ HMIMGP offers three main features:
   - 
 # How It Works
 
-    - Users select their department from the available options.
-    - The app will then display a list of top projects from recent years in the chosen department.
-    - Users can read the conclusions of each project for a better understanding of its scope and impact.
-    - Integrated AI chatbot is available to assist with any questions related to graduation projects or the process.
+  - Users select their department from the available options.
+  - The app will then display a list of top projects from recent years in the chosen department.
+  - Users can read the conclusions of each project for a better understanding of its scope and impact.
+  - Integrated AI chatbot is available to assist with any questions related to graduation projects or the process.
 # Technologies Used
   - Flutter: For building the cross-platform web application.
   - GPT API: For integrating the AI chatbot functionality.
   - Firebase: For handling authentication and data storage.
   - Getting Started
+## 1 clone repo: 
+    git clone https://github.com/bnElmookhtar/HMIMGP.git
+
+## 2 Install the dependencies:
+      flutter pub get
+## 3 Set up your GPT API key:
+  - Get your API key from OpenAI.
+  - Add it to the project’s configuration file.
+## 4 Run the app:
+  - flutter run
+
+## Contributing
+Feel free to submit issues or pull requests if you want to contribute. All kinds of feedback are welcome to improve the app.
+
